@@ -1,0 +1,37 @@
+@use 'config';
+
+aside {
+  font-family: config.$font-side;
+  font-size: config.$size-15;
+  line-height: config.$line-4;
+  background-color: var(--color-back-inv);
+  color: var(--color-text-inv);
+  padding: 1.25rem 0.75rem;
+
+  li {
+    margin: 0.5rem 0;
+  }
+  
+  a {
+    color: var(--color-text-inv);
+
+    &:hover {
+      color: config.$color-red;
+    }
+  }
+
+  header {
+    font-weight: bold;
+    font-size: config.$size-2;
+  }
+}
+
+.aside-hide-toc {
+  float: right;
+  text-decoration: underline;
+
+  &:hover {
+    color: config.$color-red;
+    text-decoration: none;
+  }
+}

@@ -1,0 +1,11 @@
+@use 'config';
+
+.book-image {
+  aspect-ratio: 1;
+  border: 0.5px solid config.$color-grey;
+}
+
+.projects {
+  font-size: config.$size-1;
+  line-height: config.$line-3; 
+}

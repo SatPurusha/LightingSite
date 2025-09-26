@@ -1,0 +1,29 @@
+@use 'config';
+
+.prev-nav {
+    max-width: 50%;
+    float: left;
+    padding-bottom: 0.75rem;
+    line-height: config.$line-4;
+    text-align: left;
+
+    &__text {
+      padding-left: 1.25rem;
+    }
+  }
+
+  .next-nav {
+    max-width: 50%;
+    float: right;
+    padding-bottom: 0.75rem;
+    line-height: config.$line-4;
+    text-align: right;
+
+   &__text {
+      padding-right: 1.25rem;
+    }
+  }
+
+  .clear {
+    clear: both;
+  }

@@ -1,0 +1,21 @@
+<div class="frontColumns">
+    {% for item in collections[category] | reverse %} 
+        <article class="list-card">
+            <div class="list-card__header">
+                <a class="list-card__link" href="{{ item.data.permalink }}">
+                    <h2 class="list-card__text">{{ item.data.title }}</h2>
+                </a>
+            </div>
+            {% if item.data.image.name %}
+                <div>
+                    <a href="{{ item.data.permalink }}">
+                        {{ macro.imageCard(
+                            filename = item.data.image.name,
+                            alt = item.data.image.alt) 
+                        }}
+                    </a>
+                </div>
+            {% endif %} 
+        </article>
+    {% endfor %}
+</div>

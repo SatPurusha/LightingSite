@@ -1,0 +1,56 @@
+@use 'config';
+
+p {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+}
+
+a {
+    text-decoration: underline;
+    text-decoration-thickness: 0.01em;
+    text-underline-offset: 0.2em;
+    color: var(--color-text);
+
+    &:hover {
+        color: config.$color-red;
+        text-decoration: none;
+    }
+}
+
+.list-box {
+    border: 0.5px solid var(--color-text);
+    padding: 0.75rem 0.5rem; 
+
+    &__item {
+        font-size: config.$size-1;
+        line-height: config.$line-2;
+    }
+}
+
+.list-card {
+    border: 0.5px solid var(--color-text);
+    display: flex; 
+    flex-direction: column; 
+    justify-content: space-between;
+
+    &__header {
+        padding: 0.5rem 0;
+    }
+
+    &__link {
+        text-decoration: none;
+    }
+
+    &__date {
+        font-size: config.$size-1;
+        line-height: config.$line-3;
+        color: config.$color-grey;
+        padding-left: 0.75rem;
+    }
+
+    &__text {
+        font-size: config.$size-2;
+        line-height: config.$line-3;
+        color: config.$color-blue;
+    }
+}

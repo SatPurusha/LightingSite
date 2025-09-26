@@ -1,0 +1,30 @@
+@use 'config';
+
+video {
+    border: 1px solid config.$color-grey;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  
+  audio {
+    margin-top: 2.5rem;
+    width: 100%;
+  }
+  
+  .subscribe {
+    background-color: config.$color-red;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    font-size: config.$size-3;
+    text-align: center;
+  
+    .subscribe__link {
+      color: config.$color-white;
+    
+      &:hover {
+        color: config.$color-black;
+      }
+    }
+  }
+  

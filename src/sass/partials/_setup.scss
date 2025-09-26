@@ -1,0 +1,25 @@
+@use 'config';
+
+html {
+  font-size: 125%;
+}
+
+body {
+  max-width: config.$max-w;
+  background-color: var(--color-back);
+  color: var(--color-text);
+  font-family: config.$font-base;
+  font-weight: 400;
+  font-size: config.$size-2;
+  line-height: config.$line-2;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main {
+  margin-top: 5rem;
+}
+
+.flow > * + * {
+  margin-top: config.$flow-space;
+}

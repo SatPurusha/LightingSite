@@ -1,0 +1,48 @@
+$max-w: 45rem;
+
+$size-1: 0.8rem;
+$size-15: 0.9rem;
+$size-2: 1rem;
+$size-3: 1.25rem;
+$size-4: 1.563rem;
+$size-5: 1.953rem;
+
+$line-1: 2.0;
+$line-2: 1.8;
+$line-3: 1.6;
+$line-4: 1.4;
+$line-5: 1.2;
+
+$flow-space: 1em;
+
+$font-base: ('Verdana', sans-serif);
+$font-head: ('Monaco', monospace);
+$font-side: ('Andale Mono', monospace);
+$font-quote: ('Georgia', sans-serif);
+
+$color-black: #000000;
+$color-dgrey: #333333;
+$color-grey: #808080;
+$color-lgrey: #cccccc;
+$color-white: #ffffff;
+$color-red: #d22b2b;
+$color-blue: #5F9EA0;
+
+:root {
+  --color-text: #333333; // dgrey
+  --color-back: #ffffff; // white
+}
+
+html[data-theme='light'] {
+  --color-text: #333333; // dgrey
+  --color-back: #ffffff; // white
+  --color-back-inv: #f0f0f0; // 
+  --color-text-inv: #000000; // dgrey
+}
+
+html[data-theme='dark'] {
+  --color-text: #cccccc; // lgrey
+  --color-back: #000000; // black
+  --color-back-inv: #333333; // dgrey
+  --color-text-inv: #cccccc; // lgrey
+}

@@ -1,0 +1,57 @@
+@use 'config';
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: config.$font-head;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
+h1 {
+  font-size: config.$size-3;
+  line-height: config.$line-3;
+  color: config.$color-red;
+
+  @media (min-width: 700px) {
+    font-size: config.$size-4;
+    line-height: config.$line-4;
+  }
+}
+
+h2 {
+  font-size: config.$size-3;
+  line-height: config.$line-3;
+  color: config.$color-blue;
+
+  @media (min-width: 700px) {
+    font-size: config.$size-4;
+    line-height: config.$line-4;
+  }
+}
+
+h3 {
+  font-size: config.$size-2;
+  line-height: config.$line-2;
+  color: var(--color-text);
+
+  @media (min-width: 700px) {
+    font-size: config.$size-3;
+    line-height: config.$line-3;
+  }
+}
+
+h4 {
+  font-size: config.$size-1;
+  color: var(--color-text);
+  text-decoration: underline;
+
+  @media (min-width: 700px) {
+    font-size: config.$size-2;
+  }
+}
+
+h4 + p {
+  margin-top: 0 !important;
+}

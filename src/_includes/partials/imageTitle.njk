@@ -1,0 +1,17 @@
+<section class="flow">
+    {% if image.name %}
+        <figure>
+            {{ macro.imageSource(
+            filename = image.name,
+            alt = image.alt,
+            link = link) 
+            }}
+        </figure>
+    {% endif %}
+    {% if title %}
+        <h1>{{ title }}</h1>
+        <h2 style="margin-top:0!important;">{{ subtitle }}</h2>
+        <p class="excerpt">{{ excerpt }}</p>
+        <p class="first-para">{{ firstPara }}</p>
+    {% endif %}
+</section>

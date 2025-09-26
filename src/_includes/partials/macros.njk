@@ -1,0 +1,101 @@
+{% macro imageSource(filename, alt, link) %}
+    
+  <a href="{{ link }}">
+    <div class="aspect">
+      <picture>
+        <source 
+          type="image/jpeg"
+          srcset="{{ filename }}-1800.jpg"
+          media="(min-width: 675px)"
+        />
+        <source 
+          type="image/jpeg"
+          srcset="{{ filename }}-1350.jpg"
+          media="(min-width: 450px)"
+        />
+        <source 
+          type="image/jpeg"
+          srcset="{{ filename }}-900.jpg"
+        />
+        <img 
+          src="{{ filename }}.jpg" 
+          alt="{{ alt }}"
+        />
+      </picture>
+    </div>
+  </a>
+
+{% endmacro %}
+
+{% macro imageCard(filename, alt) %}
+    
+    <div class="aspect">
+    <picture>
+      <source 
+        type="image/jpeg"
+        srcset="{{ filename }}-/resize/1800x/1800.jpg"
+        media="(min-width: 675px)"
+      />
+      <source 
+        type="image/jpeg"
+        srcset="{{ filename }}-/resize/1350x/1350.jpg"
+        media="(min-width: 450px)"
+      />
+      <source 
+        type="image/jpeg"
+        srcset="{{ filename }}-/resize/900x/900.jpg"
+      />
+      <img 
+        src="{{ filename }}" 
+        alt="{{ alt }}"
+      />
+    </picture>
+    </div>
+
+{% endmacro %}
+
+{% macro imagePage(filename, title, projects, text) %}
+  
+  <h2 id="{{ title }}">{{ title }}</h2>
+  <p>{{ text }}</p>
+  <ul>
+    <li class="projects">{{ projects }}</li>
+  </ul>
+  <div class="book-image">
+    <picture>
+      <source 
+        type="image/webp"
+        srcset="{{ filename }}-/format/webp/-/resize/1800x/1800.webp"
+        media="(min-width: 675px)"
+      />
+      <source 
+        type="image/jpeg"
+        srcset="{{ filename }}-/resize/1800x/1800.jpg"
+        media="(min-width: 675px)"
+      />
+      <source 
+        type="image/webp"
+        srcset="{{ filename }}-/format/webp/-/resize/1350x/1350.webp"
+        media="(min-width: 450px)"
+      />
+      <source 
+        type="image/jpeg"
+        srcset="{{ filename }}-/resize/1350x/1350.jpg"
+        media="(min-width: 450px)"
+      />
+      <source 
+        type="image/webp"
+        srcset="{{ filename }}-/format/webp/-/resize/900x/900.webp"
+      />
+      <source 
+        type="image/jpeg"
+        srcset="{{ filename }}-/resize/900x/900.jpg"
+      />
+      <img 
+        src="{{ filename }}" 
+        alt="{{ alt }}"
+      />
+    </picture>
+  </div>
+  
+{% endmacro %}
