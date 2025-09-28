@@ -14,6 +14,5 @@ image:
   copyrightLink: 
   link: 
   name: /images/light-banner
-  oldname: https://ucarecdn.com/c0941ee7-c3f3-4138-a1c0-9e7cc59e4545/
   source: Sat Purusha
 ---
