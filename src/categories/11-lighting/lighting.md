@@ -1,5 +1,5 @@
 ---
-title: Lighting and Life
+title: Lighting and Life (Netlify)
 subtitle: The Connection between Visible Light and our Inner Experience of Light
 permalink: /
 category: lighting
