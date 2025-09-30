@@ -1,20 +1,19 @@
 ---
-title: Inspiration And Light [Presentation by Graham Reid Phoenix]
-fileSlug: inspiration-light
+title: Inspiration And Light
+
+subtitle: Presentation by Graham Reid Phoenix
+
 permalink: /inspiration-light/
-date: 2022-05-15
 
 description: I am going to talk about how our Inner Light will lead us to greater influence as Lighting Designers, how, if we connect to the light inside us, we can grow and develop and become the designers who make a difference in the profession.
+
 excerpt: I am going to talk about how our Inner Light will lead us to greater influence as Lighting Designers, how, if we connect to the light inside us, we can grow and develop and become the designers who make a difference in the profession.
+
 firstPara: It is important that as designers we believe in what we are doing and display that as a passionate involvement in our work. It is our passion that shows to colleagues, partners and clients. It is our passion that moves us forward. What makes you, as a designer, different from the rest is the extent to which this belief is communicated to clients and other designers. The extent to which your belief in yourself gets incorporated into your work is critical to your success.
 
 image:
-  link: 
   alt: Lighting of Edinburgh Castle
-  copyright: Sat Purusha
-  copyrightLink: 
-  name: https://ucarecdn.com/dca557dc-52fd-4cb1-a6fa-098ef9062726/
-  source: Sat Purusha
+  name: /images/lighting-image
 
 ---
 

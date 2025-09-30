@@ -1,11 +1,14 @@
 [
     {
-        "link": "https://ucarecdn.com/941b45f0-a4e4-426f-9092-3c60d630e597/",
+        "link": "/images/Book-0",
         "page": "Front Cover",
         "title": "The Light Book",
         "projects": "Peterborough Cathedral; Prince of Wales Theatre, London; Boyne Bridge, Ireland"
     },
-    {
+     {
+        "link": "/images/Book-1",
+        "page": "Page 1"
+    },{
         "link": "https://ucarecdn.com/156da934-72a5-4d21-9489-4cccba1e833d/",
         "page": "Page 2",
         "title": "Cathedrals",

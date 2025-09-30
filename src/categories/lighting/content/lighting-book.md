@@ -1,19 +1,19 @@
 ---
+title: The Light Book
+
+subtitle: by Graham Reid Phoenix
+
 permalink: /light-book/
-title: The Light Book [by Graham Reid Phoenix]
-date: 2022-05-15
 
 description: 'As a designer, I worked with light in the way I felt about life. I was concerned with the connection between visible light and our inner experience of light. What we do speaks to our inner souls. The work we do displays much of who we are.'
+
 excerpt: 'As a designer, I worked with light in the way I felt about life. I was concerned with the connection between visible light and our inner experience of light. What we do speaks to our inner souls. The work we do displays much of who we are.'
+
 firstPara: 'I became involved in lighting in the theatre, because I wanted to get involved in what people saw, how they saw things and how they felt about it. Lighting not only enables vision in a physical sense, but it also underlines the vision people have for their lives. It underlaid the vision I had for my life.'
 
 image: 
   alt: light banner
-  copyright: Sat Purusha
-  copyrightLink: 
-  link: 
-  name: https://ucarecdn.com/c0941ee7-c3f3-4138-a1c0-9e7cc59e4545/
-  source: Sat Purusha
+  name: /images/light-banner
 
 ---
 

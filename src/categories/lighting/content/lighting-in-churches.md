@@ -1,20 +1,19 @@
 ---
-title: Quickstart Guide to Lighting in Churches [From the book 'Treasures on Earth']
-fileSlug: lighting-in-churches
+title: Quickstart Guide to Lighting in Churches
+
+subtitle: From the book 'Treasures on Earth'
+
 permalink: /lighting-in-churches/
-date: 2022-06-02
 
 description: "Atmosphere is vital to a church’s primary role as a place of worship, creating a feeling of comfort, wonder and anticipation. Lighting must be capable of encouraging this in private prayer and devotion, or in enlivening a large, joyous service. Architecture is an essential part of a church's existence. Architects throughout the ages have sought to worship God in their buildings; lighting must seek to underline this without taking over. Churches are used by young and old who are, increasingly nowadays, expected to take an active role in worship, singing, praying and reading the Bible. Lighting must enable the congregation, choir and clergy to see."
+
 excerpt: "Atmosphere is vital to a church’s primary role as a place of worship, creating a feeling of comfort, wonder and anticipation. Lighting must be capable of encouraging this in private prayer and devotion, or in enlivening a large, joyous service. Architecture is an essential part of a church's existence. Architects throughout the ages have sought to worship God in their buildings; lighting must seek to underline this without taking over. Churches are used by young and old who are, increasingly nowadays, expected to take an active role in worship, singing, praying and reading the Bible. Lighting must enable the congregation, choir and clergy to see."
+
 firstPara: "Lighting is a crucial element in the relationship of people to their churches. It affects the atmosphere in the church, it influences people’s appreciation of the architecture and it controls their ability to see. In the past, light was provided almost entirely by daylight with a small contribution from artificial sources such as candles. Churches were built to take maximum advantage of natural light and consequently often had a feeling of space or 'Mysterium Tremendum' (St. Augustine). They are frequently left in this state in the mistaken belief that they are as they were intended to be. Lighting is an area which has benefited from advances in technology and so is able to contribute to a church in a way which was not possible when many were built. This technology should be harnessed in order to improve people’s appreciation of churches, without harming the original intent of the builders, not only during daylight but also in periods of darkness when churches are at their most gloomy and forbidding."
 
 image:
-  link: 
   alt: Durham Cathedral High Altar
-  copyright: Sat Purusha
-  copyrightLink: 
-  name: https://ucarecdn.com/daeb0d6f-ed06-42ef-b9f7-3db0e708107e/
-  source: Sat Purusha
+  name: /images/durham-cathedral-high-altar
 
 ---
 
