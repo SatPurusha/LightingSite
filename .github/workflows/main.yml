@@ -1,1 +1,2 @@
-Do not deploy to GitHub Pages
+- name: Render to Netlify only
+  uses: Render to Netlify only
