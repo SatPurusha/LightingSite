@@ -1,29 +1,4 @@
-{% macro imageCard(filename, alt) %}
-    
-    <div class="aspect">
-    <picture>
-      <source 
-        type="image/jpeg"
-        srcset="{{ filename }}-1800.jpg"
-        media="(min-width: 675px)"
-      />
-      <source 
-        type="image/jpeg"
-        srcset="{{ filename }}-1350.jpg"
-        media="(min-width: 450px)"
-      />
-      <source 
-        type="image/jpeg"
-        srcset="{{ filename }}-900.jpg"
-      />
-      <img 
-        src="{{ filename }}" 
-        alt="{{ alt }}"
-      />
-    </picture>
-    </div>
 
-{% endmacro %}
 
 {% macro imagePage(filename, title, projects, text) %}
   

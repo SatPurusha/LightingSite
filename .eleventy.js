@@ -45,8 +45,7 @@ module.exports = config => {
   })
 
   // File pass through to output
-  config.addPassthroughCopy('src/images/*.jpg')
-  config.addPassthroughCopy('src/images/*.png')
+  config.addPassthroughCopy('src/images')
   config.addPassthroughCopy('src/_headers')
 
   // nunjucks limit filter
