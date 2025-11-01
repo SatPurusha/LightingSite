@@ -1,17 +1,18 @@
 {
   "name": "sat-purusha-com",
   "version": "5.0.0",
+  "type": "module",
   "private": true,
   "description": "Lighting by Graham Phoenix",
   "main": ".eleventy.js",
   "scripts": {
-    "start": "npm-run-all --parallel watch:sass serve:11ty",
-    "build": "npm-run-all --parallel clean build:sass build:11ty",
+    "start": "npm-run-all clean build:sass  --parallel watch:*",
+    "build": "npm-run-all clean build:*",
     "clean": "rimraf dist",
-    "serve:11ty": "eleventy --serve",
-    "build:11ty": "npx eleventy",
-    "watch:sass": "npx sass --watch src/sass/style.scss:dist/css/style.css",
-    "build:sass": "npx sass src/sass/style.scss:dist/css/style.css"
+    "watch:11ty": "eleventy --serve",
+    "build:11ty": "eleventy",
+    "watch:sass": "sass --watch src/sass:dist/css",
+    "build:sass": "sass src/sass:dist/css"
   },
   "author": "sat purusha",
   "dependencies": {

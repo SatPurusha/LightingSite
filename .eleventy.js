@@ -1,6 +1,12 @@
-// config
-
-const dirConfig = {
+export default function(config) {
+  config.addPassthroughCopy('src/images')
+  config.addWatchTarget("dist/css/style.css")
+  config.setServerOptions({
+    watch: ["dist/css/style.css"]
+  })
+}
+  
+export const config = {
   markdownTemplateEngine: 'njk', 
   dataTemplateEngine: 'njk', 
   htmlTemplateEngine: 'njk', 
@@ -9,19 +15,6 @@ const dirConfig = {
     input: 'src', 
     layouts: '_includes', 
     output: 'dist',
-    images: 'images'
+    images: 'images',
   }
-}
-
-// export
-
-module.exports = function(config) {
-
-  config.setServerOptions({
-    watch: ["./src/sass/"]
-  })
-
-  config.addPassthroughCopy('src/images')
-
-  return dirConfig
 }

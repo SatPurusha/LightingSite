@@ -12,10 +12,5 @@
 <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
 
-<!-- css injection -->
-{% set css %}
-  {% include "dist/css/style.css" %}
-{% endset %}
-<style>
-  {{ css | safe }}
-</style>
+<!-- stylesheets -->
+<link rel="stylesheet" href="{{ '/css/style.css' | url }}"/>
