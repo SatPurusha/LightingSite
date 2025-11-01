@@ -1,0 +1,29 @@
+{% for image in lightingBook %}  
+  <h2 id="{{ image.title }}">{{ timage.title }}</h2>
+  <p>{{ image.text }}</p>
+  <ul>
+    <li class="projects">{{ image.projects }}</li>
+  </ul>
+  <div class="book-image">
+    <picture>
+      <source 
+        type="image/jpeg"
+        srcset="{{ image.link }}-1800.jpg"
+        media="(min-width: 675px)"
+      />
+      <source 
+        type="image/jpeg"
+        srcset="{{ image.link }}-1350.jpg"
+        media="(min-width: 450px)"
+      />
+      <source 
+        type="image/jpeg"
+        srcset="{{ image.link }}-900.jpg"
+      />
+      <img 
+        src="{{ image.link }}.jpg" 
+        alt="{{ image.alt }}"
+      />
+    </picture>
+  </div>
+{% endfor %}
