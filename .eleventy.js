@@ -1,8 +1,5 @@
-// *********
-// VARIABLES
-// *********
-
 // directory config
+
 const dirConfig = {
   markdownTemplateEngine: 'njk', 
   dataTemplateEngine: 'njk', 
@@ -14,17 +11,10 @@ const dirConfig = {
     includes: '_includes',
     output: 'dist',
     images: 'images'
-  }}
+  }
+}
 
-// css minify config
-  const CleanCSS = require("clean-css")
-
-// html minify config
-const htmlmin = require("html-minifier-terser")
-
-// *************
-// CONFIGURATION
-// *************
+// configuration
 
 module.exports = config => {
 
@@ -33,27 +23,9 @@ module.exports = config => {
     watch: ["./src/sass/"]
   })
 
-  // File pass through to output
+  // file pass through to output
   config.addPassthroughCopy('src/images')
 
-  // css minify config
-  config.addFilter("cssmin", function (code) {
-    return new CleanCSS({}).minify(code).styles;
-  })
-
-  // html minify config
-  config.addTransform("htmlmin", function (content) {
-    if ((this.page.outputPath || "").endsWith(".html")) {
-      let minified = htmlmin.minify(content, {
-        useShortDoctype: true,
-        removeComments: true,
-        collapseWhitespace: true,
-      });
-      return minified;
-    }
-    return content;
-  });
-
-  // Directory config
+  // directory config
   return dirConfig
 }
