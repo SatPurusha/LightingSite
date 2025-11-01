@@ -8,7 +8,7 @@
     "start": "npm-run-all --parallel watch:sass serve:11ty",
     "build": "npm-run-all --parallel clean build:sass build:11ty",
     "clean": "rimraf dist",
-    "serve:11ty": "eleventy --serve --quiet",
+    "serve:11ty": "eleventy --serve",
     "build:11ty": "npx eleventy",
     "watch:sass": "npx sass --watch src/sass/style.scss:dist/css/style.css",
     "build:sass": "npx sass src/sass/style.scss:dist/css/style.css"

@@ -1,4 +1,4 @@
-// directory config
+// config
 
 const dirConfig = {
   markdownTemplateEngine: 'njk', 
@@ -7,25 +7,21 @@ const dirConfig = {
   dir: {
     data: '_data', 
     input: 'src', 
-    layouts: '_includes/layouts', 
-    includes: '_includes',
+    layouts: '_includes', 
     output: 'dist',
     images: 'images'
   }
 }
 
-// configuration
+// export
 
-module.exports = config => {
+module.exports = function(config) {
 
-  //dev server
   config.setServerOptions({
     watch: ["./src/sass/"]
   })
 
-  // file pass through to output
   config.addPassthroughCopy('src/images')
 
-  // directory config
   return dirConfig
 }
