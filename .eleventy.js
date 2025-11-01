@@ -2,12 +2,6 @@
 // VARIABLES
 // *********
 
-// Customize Markdown library & toc:
-const markdownIt = require('markdown-it')
-const markdownItOptions = {html: true}
-const markdownItAnchor = require('markdown-it-anchor')
-const markdownItAnchorOptions = {permalink: false, level: [2,3], tabIndex: false}
-
 // directory config
 const dirConfig = {
   markdownTemplateEngine: 'njk', 
@@ -34,11 +28,6 @@ const htmlmin = require("html-minifier-terser")
 
 module.exports = config => {
 
-  // Customize Markdown library &toc
-  let markdownLibrary = markdownIt(markdownItOptions)
-  .use(markdownItAnchor, markdownItAnchorOptions)
-  config.setLibrary('md', markdownLibrary)
-
   //dev server
   config.setServerOptions({
     watch: ["./src/sass/"]
@@ -46,12 +35,6 @@ module.exports = config => {
 
   // File pass through to output
   config.addPassthroughCopy('src/images')
-  config.addPassthroughCopy('src/_headers')
-
-  // nunjucks limit filter
-  config.addFilter('limit', function(array, limit) {
-    return array.slice(0, limit)
-  })
 
   // css minify config
   config.addFilter("cssmin", function (code) {
