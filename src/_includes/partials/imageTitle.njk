@@ -1,11 +1,30 @@
 <section class="flow">
     {% if image.name %}
         <figure>
-            {{ macro.imageSource(
-            filename = image.name,
-            alt = image.alt,
-            link = link) 
-            }}
+            <a href="{{ link }}">
+                <div class="aspect">
+                <picture>
+                    <source 
+                    type="image/jpeg"
+                    srcset="{{ image.name }}-1800.jpg"
+                    media="(min-width: 675px)"
+                    />
+                    <source 
+                    type="image/jpeg"
+                    srcset="{{ image.name }}-1350.jpg"
+                    media="(min-width: 450px)"
+                    />
+                    <source 
+                    type="image/jpeg"
+                    srcset="{{ image.name }}-900.jpg"
+                    />
+                    <img 
+                    src="{{ image.name }}.jpg" 
+                    alt="{{ image.alt }}"
+                    />
+                </picture>
+                </div>
+            </a>
         </figure>
     {% endif %}
     {% if title %}

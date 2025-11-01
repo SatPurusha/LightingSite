@@ -1,32 +1,3 @@
-{% macro imageSource(filename, alt, link) %}
-    
-  <a href="{{ link }}">
-    <div class="aspect">
-      <picture>
-        <source 
-          type="image/jpeg"
-          srcset="{{ filename }}-1800.jpg"
-          media="(min-width: 675px)"
-        />
-        <source 
-          type="image/jpeg"
-          srcset="{{ filename }}-1350.jpg"
-          media="(min-width: 450px)"
-        />
-        <source 
-          type="image/jpeg"
-          srcset="{{ filename }}-900.jpg"
-        />
-        <img 
-          src="{{ filename }}.jpg" 
-          alt="{{ alt }}"
-        />
-      </picture>
-    </div>
-  </a>
-
-{% endmacro %}
-
 {% macro imageCard(filename, alt) %}
     
     <div class="aspect">
