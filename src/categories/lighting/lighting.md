@@ -1,5 +1,5 @@
 ---
-title: Lighting and Life
+title: Lighting and Life (Renew)
 
 subtitle: The Connection between Visible Light and our Inner Experience of Light
 
