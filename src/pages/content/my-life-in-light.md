@@ -1,16 +1,10 @@
 ---
 title: My Life in Light
-
 subtitle: Surviving Records of My Design Work
-
 permalink: /my-life-in-light/
-
 description: In a previous life I worked as an architectural lighting designer. Having originally been a stage lighting designer in my youth I moved on to buildings when I started to have children and my life became distinctly more complicated. Most of my archives from the years of lighting design have gone but two documents have survivied which give an overview of the design work I did.
-
 excerpt: In a previous life I worked as an architectural lighting designer. Having originally been a stage lighting designer in my youth I moved on to buildings when I started to have children and my life became distinctly more complicated. Most of my archives from the years of lighting design have gone but two documents have survivied which give an overview of the design work I did.
-
 firstPara: I have put these two documents on site to finally put them out into the public domain. They give a fascinating overview of the kind of work that I did and the results I achieved. The two documents are 'The Light Book', a compilation of images of completed projects, originally published privately, and 'Inspiration and Light', the text of a presentation I gave to a conference many years ago that outlined my philosophical approach to lighting.
-
 image:
   alt: Manchester Concert Hall Lighting
   name: /images/my-life-in-light

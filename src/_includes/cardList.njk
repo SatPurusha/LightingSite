@@ -1,0 +1,38 @@
+<br>
+<div class="frontColumns">
+    {% for item in collections.pages | reverse %} 
+        <article class="list-card">
+            <div class="list-card__header">
+                <a class="list-card__link" href="{{ item.data.permalink }}">
+                    <h2 class="list-card__text">{{ item.data.title }}</h2>
+                </a>
+            </div>
+            {% if item.data.image.name %}
+                <a href="{{ item.data.permalink }}">
+                    <div class="aspect">
+                        <picture>
+                            <source 
+                                type="image/jpeg"
+                                srcset="{{ item.data.image.name }}-1800.jpg"
+                                media="(min-width: 675px)"
+                            />
+                            <source 
+                                type="image/jpeg"
+                                srcset="{{ item.data.image.name }}-1350.jpg"
+                                media="(min-width: 450px)"
+                            />
+                            <source 
+                                type="image/jpeg"
+                                srcset="{{ item.data.image.name }}-900.jpg"
+                            />
+                            <img 
+                                src="{{ item.data.image.name }}" 
+                                alt="{{ item.data.image.alt }}"
+                            />
+                        </picture>
+                    </div>
+                </a>
+            {% endif %} 
+        </article>
+    {% endfor %}
+</div>
