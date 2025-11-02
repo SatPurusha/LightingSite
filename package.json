@@ -6,8 +6,8 @@
   "description": "Lighting by Graham Phoenix",
   "main": ".eleventy.js",
   "scripts": {
-    "start": "npm-run-all clean --parallel watch:*",
-    "build": "npm-run-all clean build:*",
+    "start": "npm-run-all clean --parallel watch:11ty watch:sass",
+    "build": "npm-run-all clean --parallel build:11ty build:sass",
     "clean": "rimraf dist",
     "watch:11ty": "eleventy --serve",
     "build:11ty": "eleventy",
