@@ -10,6 +10,9 @@ image:
   name: /images/lighting-image
 ---
 
+{% include "presentation.njk" %}
+
+
  ## Inspiration and Light
 
 > The hero is the one who kindles a great light in the world, who sets up blazing torches in the dark streets of life for men to see by. The saint is the man who walks through the dark paths of the world, himself a light.  
@@ -65,17 +68,25 @@ Jonathan Spiers and Mark Major, along with their amazing team of designers, crea
 
 ### Source
 
+<inspiration-source.jpg>
+
 > We now live in an age where artificial sources offer as many possibilities for expression and the creation of architecture as the light of the sun itself.
 
 ### Contrast
+
+<inspiration-contrast.jpg>
 
 > Through the relationship between light and dark we are able to determine the form of architecture by the manner in which space and surface is revealed.
 
 ### Surface
 
+<inspiration-surface.jpg>
+
 > The relationship between light, surface and texture is not only substantial – it can be implied, simulated or hidden.
 
 ### Colour
+
+<inspire-colour.jpg>
 
 > Light liberates the use of colour in architecture through our ability to create coloured light.
 
@@ -96,6 +107,8 @@ Jonathan Spiers and Mark Major, along with their amazing team of designers, crea
 > Light influences space through the manner in which it defines mass as form.
 
 ### Boundary
+
+<inspire-boundary.jpg>
 
 > Light helps to define our understanding of the limits of space and form through the lighting of boundaries.
 
@@ -124,13 +137,18 @@ Henry Plummer in his great book ‘The Architecture of Natural Light’, looks a
 > Choreography of light for the moving eye.
 
 ### Veils of Glass
+
 > Refraction of light in a diaphanous film.
 
 ### Atomization
 
+<inspire-atomization.jpg>
+
 > Sifting of light through a porous screen.
 
 ### Canalization
+
+<inspire-canalization.jpg>
 
 > Channelling of light through a hollow mass.
 

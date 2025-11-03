@@ -1,0 +1,28 @@
+{% for section in presentation %}  
+  <h2 id="{{ section.heading }}">{{ section.heading }}</h2>
+  <div class="book-image">
+    <picture>
+      <source 
+        type="image/jpeg"
+        srcset="{{ section.slide }}-1800.jpg"
+        media="(min-width: 675px)"
+      />
+      <source 
+        type="image/jpeg"
+        srcset="{{ section.slide }}-1350.jpg"
+        media="(min-width: 450px)"
+      />
+      <source 
+        type="image/jpeg"
+        srcset="{{ section.slide }}-900.jpg"
+      />
+      <img 
+        src="{{ section.slide }}.jpg" 
+        alt="{{ section.alt }}"
+      />
+    </picture>
+  </div>
+  <h3>{{ section.caption }}</h3>
+  <blockquote>{{ section.quotation }}</blockquote>
+  <p>{{ section.text }}</p>
+{% endfor %}
