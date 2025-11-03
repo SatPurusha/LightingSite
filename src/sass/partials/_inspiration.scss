@@ -1,0 +1,11 @@
+@use "config";
+
+.inspiration-image {
+  aspect-ratio: 1.34;
+  border: 0.5px solid config.$color-grey;
+}
+
+.caption {
+  font-size: config.$size-1;
+  line-height: config.$line-3;
+}

@@ -10,43 +10,46 @@ image:
   name: /images/lighting-image
 ---
 
-{% include "presentation.njk" %}
+## Inspiration and Light
 
-
- ## Inspiration and Light
-
-> The hero is the one who kindles a great light in the world, who sets up blazing torches in the dark streets of life for men to see by. The saint is the man who walks through the dark paths of the world, himself a light.  
+> The hero is the one who kindles a great light in the world, who sets up blazing torches in the dark streets of life for men to see by. The saint is the man who walks through the dark paths of the world, himself a light.
+>
 > <footer>Felix Adler
 
 There are three elements which are crucial in achieving success, they are Awareness, Acceptance and Authenticity.
 
 You need to be aware of your skills and approach as a designer. Know what you are good at, what you love. From there it is important to accept who you are, or go about changing it. Find the passion that does ignite you and accept it as part of your life. Then you need to be authentic, live who you are. It is too easy just to do what others do and thereby betray yourself. Reject this and be true to you own passion.
 
- In seeking this connection, passion and belief you need to go back to the source of all that we do, light. Yes, we need to know our craft, understand the technology and be able to use it, but behind it we need to know light.
- 
+In seeking this connection, passion and belief you need to go back to the source of all that we do, light. Yes, we need to know our craft, understand the technology and be able to use it, but behind it we need to know light.
+
 What is light, where does it come from, what is it for, how do people use it? These are question that should occupy our minds. These are issues we need to come to grips with.
 
 This is an enormous subject and I hope to touch on just some of the truths about light, to inspire you with them and help you find your own connection with the light inside you. From this it is for you to find your own passion and belief, your own source, your own light, your own awareness, acceptance and authenticity.
 
-I dedicate this presentation to the power of lighting design to elevate people’s lives. As a colleague, an employer and a mentor I have seen people change through their involvement with light. It is a great profession that does great work and we should all continue to be proud of it. 
+I dedicate this presentation to the power of lighting design to elevate people’s lives. As a colleague, an employer and a mentor I have seen people change through their involvement with light. It is a great profession that does great work and we should all continue to be proud of it.
 
-> Better to light a candle than to curse the darkness.  
+> Better to light a candle than to curse the darkness.
+>
 > <footer>Chinese Proverb
 
- As lighting designers we do more than illuminate people’s lives, we draw attention to the beauty there. We help people to look forward and see what is to come. We create environments that take people out of the negativity of their lives and give them hope. I fully believe that, as lighting designers, we provide a service which inspires people at large as well as ourselves.
- 
+As lighting designers we do more than illuminate people’s lives, we draw attention to the beauty there. We help people to look forward and see what is to come. We create environments that take people out of the negativity of their lives and give them hope. I fully believe that, as lighting designers, we provide a service which inspires people at large as well as ourselves.
+
+{% image "Inspiration-1", "911 Memorial in Light" %}
+
 The power of the Tribute in Light to 9/11, for me, is quite extraordinary both technically and conceptually. It celebrates the lives of those killed and creating it with something intangible, yet powerful.
 
 For me, it’s a fitting memorial to the fragility of life. It recognises the power of life. It’s enjoying nature. For me, it speaks directly to our souls, and I think very few people could see this and not be touched by it or brought to think of what it represents. The extraordinary power of something you can’t touch and can’t hold is immense.
+
 This article is about Inspiration and Light. The inspiration that creates light and the inspiration of light. Inspiration is what leads us to influence the world as lighting designers. Light is what gives us our inspiration. Inspiration is what creates our light.
 
-As Lighting Designers we all want that edge that will get us noticed. We want more business and we want more influence. If we let our own personal guidance system, our *Inner Light*, into our work, it will lead us to our true calling as designers. What do we really want to communicate as designers, who do we want to communicate with?
+As Lighting Designers we all want that edge that will get us noticed. We want more business and we want more influence. If we let our own personal guidance system, our _Inner Light_, into our work, it will lead us to our true calling as designers. What do we really want to communicate as designers, who do we want to communicate with?
 
 This presentation will outline what influenced me as a designer and will look at how I took my ‘Inner Light’ into my work. It will show how the congruence between what I felt, what I wanted and what I did projected me to greater influence.
 
 It is important that designers believe in what they are doing and display that as a passionate involvement in their work. What makes a designer different from the rest is the extent to which this belief is communicated to clients and other designers
 
-> People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within.  
+> People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within.
+>
 > <footer>Elisabeth Kübler-Ross
 
 We all sparkle and shine, some of us more than others, but what is revealed when the darkness sets in. What happens when things get tough. When a project gets difficult, business gets tough or our personal lives intrude. How do we react to our work? Does it continue to be our passion? Do we keep striving to communicate? If our connection with our light comes from within we will continue to shine and grow.
@@ -56,6 +59,7 @@ We all sparkle and shine, some of us more than others, but what is revealed when
 Light comes in many forms and has long been categorised by those seeking to understand it. This is part of a process of trying to contain the world we live in, trying to bring it under our control. One of the things I love about light is how it refuses to be contained like this. It is shifted, changed, diverted, diffused, focused but it never succumbs to our complete control. It eventually breaks free and remains light. We are never able to fully understand it, intellectually or scientifically, but we keep trying.
 
 > There are two ways of spreading light; to be the candle or the mirror that reflects it.
+>
 > <footer>Edith Wharton
 
 There are some well-know, at least in this community, definitions or categorisations of light, for example those by Speirs and Major, and Henry Plummer.
@@ -64,7 +68,7 @@ It is interesting that although the former are lighting designers all of them ar
 
 ## Made of Light
 
-Jonathan Spiers and Mark Major, along with their amazing team of designers, created [*Made of Light, The Art of Light and Architecture*](https://smlightarchitecture.com/projects/515/made-of-light). In it they categorised light into 12 themes, what they describe as *“common bonds between light and architecture”*. They deliberately focus on *“qualitative, ephemeral and abstract considerations”* but emphasise that the world we see, particularly the architectural world is *"Made of Light"*. I don’t want to dwell on these themes but I do want to remind you what they are.
+Jonathan Spiers and Mark Major, along with their amazing team of designers, created [_Made of Light, The Art of Light and Architecture_](https://smlightarchitecture.com/projects/515/made-of-light). In it they categorised light into 12 themes, what they describe as _“common bonds between light and architecture”_. They deliberately focus on _“qualitative, ephemeral and abstract considerations”_ but emphasise that the world we see, particularly the architectural world is _"Made of Light"_. I don’t want to dwell on these themes but I do want to remind you what they are.
 
 ### Source
 
@@ -169,8 +173,8 @@ Plummer looks at a more essential categorization of light in architecture. How i
 
 I would like to go more into the essence of light itself, what it is, where it comes from, how we react to it and how it influences life. Light is critical in the creation and definition of architecture but it also has a life of its own, a life outside architecture and lighting design, a life in the world at large. It is instructive for us to look at this, develop our awareness of it and bring that awareness into our work.
 
->Space and light and order. Those are the things that men need just as much as they need bread or a place to sleep.
-><q>Le Corbusier
+> Space and light and order. Those are the things that men need just as much as they need bread or a place to sleep.
+> <q>Le Corbusier
 
 I would like to offer my own categories of Inspiration in Light:
 
@@ -195,23 +199,26 @@ I would like to offer my own categories of Inspiration in Light:
 > How we take light inside, how it becomes us, how it connects with living light.
 
 ## Living Light
-***The essence and science of light, what is it, how does it work.***
 
-A double helix of certainty and uncertainty threads its way through light and its history. Scientists understand and yet don’t. As soon as its nature becomes clear it disappears into a mist. 
+**_The essence and science of light, what is it, how does it work._**
+
+A double helix of certainty and uncertainty threads its way through light and its history. Scientists understand and yet don’t. As soon as its nature becomes clear it disappears into a mist.
 
 A double helix of creation and seeing threads its way through light. Living light is about how light is made, the science of light, it is also about how we see it. These two aspects of light are the essential components of light. They are both necessary and both very interesting.
 
 > Light gives of itself freely, filling all available space. It does not seek anything in return; it asks not whether you are friend or foe. It gives of itself and is not thereby diminished.  
-><q>Michael Strassfeld
+> <q>Michael Strassfeld
 
 The history of the understanding of light has intertwined with the spiritual nature of light. It started with light as the god, the sun as the creator of the earth. Scientific study was intended to expand man’s understanding of creation. It moved on to the light of god illuminating the earth. Science was about proving the existence of god. Science moved away from religion and became a study in fact and reality. In the present age it has returned to the metaphysical with the uncertainty of quantum theory.
 
 No matter how hard we try we cannot avoid the feeling that light and spirituality remain forever mingled, one informing the other. No matter how hard we try to see light as merely functional, the truth gets lost in our attempts to understand it.
 
 ### Vision
+
 Let’s start with our end of the process, seeing. The act of seeing is automatic. We see without any apparent effort.
 
 > We all know what light is; but it is not easy to tell what it is.
+>
 > <footer>Samuel Johnson
 
 The mechanisms of human vision are highly intentional. A great deal of what we see arises out of what we expect to see. No distinction can be made between seeing with the eye and seeing with the mind.
@@ -235,6 +242,7 @@ In Physics, Quantum Theory means that it is no longer possible to be objective o
 The theory of light went through many iterations before it reached this level of uncertainty.
 
 > For now we see through a glass, darkly
+>
 > <footer>St Paul
 
 It was Newton, in the 17th century, who proposed the theory that light was made up of particles.
@@ -244,7 +252,7 @@ After playing with a prism and discovering that the different colours of the spe
 One of his greatest critics, Huygens, was convinced, however, that light was a type of wave. The arguments raged around the nature of the substance the waves were in or how we can’t see round corners, unlike waves which appear to bend round corners. Particles or waves, two opposite and incompatible characteristics and yet they both seem to apply to light.
 Then the idea of a wave gained precedence. Faraday stunned the world of science with his theory linking light to electricity and magnetism by describing light as a vibration rippling through magnetic force lines. But it was Maxwell who made the discovery of light’s electromagnetic nature.
 
-Planck, in the nineteenth century, finding evidence of particles, but believing in the theory of waves, describe the ‘quanta’, or chunks of energy, given off by particular atoms of light. *“Particles. Jim, but not as we know it”*. Then Einstein re-invigorated the original idea of Newton, light is made up of particles. Somehow, Einstein thought, light managed to be a packet of energy, but still behave like a wave. Einstein threw away one of the most basic accepted facts in science, that light was a perfectly normal wave, and left the way open for the whole of quantum theory, fundamentally changing our picture of the mechanics of reality.
+Planck, in the nineteenth century, finding evidence of particles, but believing in the theory of waves, describe the ‘quanta’, or chunks of energy, given off by particular atoms of light. _“Particles. Jim, but not as we know it”_. Then Einstein re-invigorated the original idea of Newton, light is made up of particles. Somehow, Einstein thought, light managed to be a packet of energy, but still behave like a wave. Einstein threw away one of the most basic accepted facts in science, that light was a perfectly normal wave, and left the way open for the whole of quantum theory, fundamentally changing our picture of the mechanics of reality.
 
 Quantum theory says that a light photon can exist in a strange mixture of two possible states until it is measured, only then does it decide which it’s going to be. This peculiar state was described in more detail by one of the greatest physicists of the twentieth century, Richard Feynman. He developed QED, Quantum Electrodynamics, or ‘the strange theory of light and matter’. At its heart was the simple concept, the principle of least action. Creation is lazy and a physical phenomenon will take the course of action that requires least effort or time, much like I do.
 
@@ -253,19 +261,22 @@ Feynman was to discover that light is fundamental to the continued existence of 
 So we come to the point, light behaves like waves until you enter the quantum world where light behaves like particles. The quantum world is about uncertainty and duality. With the quantum world nothing is certain, nothing proven. Life becomes an estimation, a theory, and as such constantly moves forward. All we really know is that light is central to the whole of creation. It doesn’t just illuminate it, it is it. Light doesn’t just reveal the world around us it is that world.
 
 > God runs electromagnetics on Monday, Wednesday and Friday by wave theory, and the devil runs it by quantum theory on Tuesday, Thursday and Saturday.
+>
 > <footer>William Henry Bragg
 
 What happens on a Sunday, lets leave that until later.
 
 ## Discovered Light
-***How light is seen in the world, natural light in all its forms, the world of light and dark.***
+
+**_How light is seen in the world, natural light in all its forms, the world of light and dark._**
 
 Discovered light, for me, is light as we experience it in the world. It is the light of nature that is created for us to live in. It is light unobstructed by the actions of man through buildings or other devices. It is the raw natural power of light in our environment.
 
 > Two lights brighten our world. One is provided by the sun, but another answers to it – the light of the eye. Only through their intertwining do we see, lacking either, we are blind.
+>
 > <footer>Arthur Zajonc
 
-It all comes back to the sun. The sun that provides our warmth, the sun that enables plants to grow, the sun that creates life. It’s not surprising to realize that the sun has been worshipped throughout history. Even now I live in Spain, rather than the UK, largely because of the availability and heat of the sun. 
+It all comes back to the sun. The sun that provides our warmth, the sun that enables plants to grow, the sun that creates life. It’s not surprising to realize that the sun has been worshipped throughout history. Even now I live in Spain, rather than the UK, largely because of the availability and heat of the sun.
 
 ### Light in Nature
 
@@ -277,6 +288,7 @@ So, looking at inspiration, we ought to look at light; light itself, natural lig
 Our greatest experience is natural light. It consists of light from the sun filtered in various ways. Earlier we looked at Henry Plummer’s categorization of light filtered by buildings, here we are taking a step back to seeing light filtered by nature. We see it as daylight filtered by the clouds and spread diffusely around us. We see it as sunlight shining directly on us, burning and clarifying us, and we see it as moonlight reflected off the moon creating a more mysterious light.
 
 > You can't have a light without a dark to stick it in.
+>
 > <footer>Arlo Guthrie
 
 We also see it as darkness, the lack of light; even more powerful sometimes than the light itself, and even more necessary sometimes than light in creating lighting.
@@ -313,6 +325,7 @@ Louis Kahn, the great architect and manipulator of light, once said,
 That is the key to appreciating light – darkness.
 
 > Darkness is only driven out with light, not more darkness.
+>
 > <footer>Martin Luther King
 
 Darkness creates more interest and seems to inspire more than light. Dark holds all that we want to keep hidden, all that we are ashamed of. Jung talked of our Shadow which contains the events, emotions and all the power that is suppressed in our lives. Much self-development and psychology is geared to releasing the shadow to our light, opening ourselves up to the power and cleansing of light.
@@ -325,18 +338,20 @@ This turns this fear of darkness on its head. It inspires people because it iden
 
 How do we experience darkness? Clearly the complete lack of light at night or underground, but also from moonlight. Moonlight is still sunlight, but it’s sunlight reflected; reflected in such a way that all the fire and power has been leached out of it. Moonlight has always been associated with lovers, with magic, with a sense of mystery that’s cool and monochromatic.
 
-But, with a total absence of light pollution, it can be truly amazing. I spent time in Fiji well away from the light pollution of Europe and America, and experienced the incredible power of the moon through that true darkness. The moon and the darkness together are quite an amazing experience, one that is extremely hard to reproduce artificially, but one that should at least give us some thought. 
+But, with a total absence of light pollution, it can be truly amazing. I spent time in Fiji well away from the light pollution of Europe and America, and experienced the incredible power of the moon through that true darkness. The moon and the darkness together are quite an amazing experience, one that is extremely hard to reproduce artificially, but one that should at least give us some thought.
 
 The moon is always associated with darkness. Darkness and the moonlight are absolutely close together and the moon is often used to represent the dark side of nature. It contrasts with the sun, but it also balances it. The moon, very often, draws us into its spell.
 
 It creates a different emotion and a different sense of the natural world around us. Everything becomes still and silent, and seems to go to sleep. Can we create this feeling in buildings?
 
 ## Imagined Light
-***Light in Art, how light is interpreted.***
+
+**_Light in Art, how light is interpreted._**
 
 Imagined light is what comes from the mind of man. It is not concerned with the scientific source of light but with its representation. How can you imagine it in your mind, how can you re-create it. This has mostly been the concern of artists through history. They have tried to encapsulate light on canvas, tried to reproduce its power. Often they succeed in representing it well but do they succeed in helping us to understand it.
 
 > Light is a thing that cannot be reproduced, but must be represented by something else – by color.
+>
 > <footer>Paul Cezanne
 
 The painters Vermeer and Caravaggio were masters in portraying light. They painted scenes of simplicity and power and accurately portrayed the light in them. But were these accurate pictures anything more stunning or beautiful. People love their accuracy and the painters were inspired in how they used paint to show reality, but did they inform us any more about light? Did they explore the nature of light? The showed us how light was and what it did but did they question it.
@@ -350,6 +365,7 @@ Let’s look at two artists who, in their way, challenged perceptions of light, 
 Artists for hundreds of years struggled with vision, they struggled with what they saw. Somehow they were unable to represent, in their painting, what they actually saw. Somehow the light of their imagination did not equate with the light of reality.
 
 > Don't just use light to illuminate... think about what light means in the context of the painting.
+>
 > <footer>Martha Mayer Erlebacher
 
 It came to an architect to see that there was something visually wrong in the flat, unnatural paintings of the time. It was 1420 when Filippo Brunelleschi stood outside the cathedral in Florence, as an architect he was an enthusiast for classical design and had a feel for mathematical rightness of form. He was used to working in three dimensions and he understood the behaviour of light.
@@ -365,6 +381,7 @@ The treatment and view of light and how it works was at the heart of Brunellesch
 A different view of light and its role in the whirlwind at the centre of art was expressed by Monet. Already painting had passed on from the scientific view of the sixteenth century. In the late 19th century art was already moving away from its role as a representation of nature, of God’s world. Impressionism was yet again changing the face of art, yet again challenging our view of light.
 
 > The older I become the more I realize of that I have to work very hard to reproduce what I search: the instantaneous. The influence of the atmosphere on the things and the light scattered throughout.
+>
 > <footer>Claude Monet
 
 Monet painted a series of views of Rouen Cathedral between 1892 and 1894.
@@ -396,7 +413,8 @@ Clemenceau said about Monet's Cathedrals:
 These paintings are regarded as the best pictorial testimony of the incomparable courage of Impressionism. As such they are worthy of study by us as lighting designers. It is important to see beyond the object to the light itself, to see the emotion and the power in its representation.
 
 ## Created Light
-***How light is used or harnessed, in architecture and all forms of lighting.***
+
+**_How light is used or harnessed, in architecture and all forms of lighting._**
 
 Created light is what we deal with in lighting design. We create light, we create lighting effects. We deal in static and dynamic light using all the themes outlined by Speirs and Major. Our understanding of created light is deep but often limited. It is often limited to the world we know, the world of lighting design and sometimes the world of theatre.
 
@@ -447,7 +465,8 @@ The website Guerillalighting.net says the following:
 Lighting becomes politics, graffitti changes the world. It all shows the power of light.
 
 ## Spiritual Light
-***How we take light inside, how it becomes us, how it connects with living light.***
+
+**_How we take light inside, how it becomes us, how it connects with living light._**
 
 As a designer, I work with light in the way I feel about life, and about myself. As a designer, I’m concerned with the connection between physical light and our inner experience of light. I think that what we do speaks to our inner souls, and the connections we make. I think the work we do displays much of who we are, and what we are as people.
 
@@ -456,6 +475,7 @@ I originally became involved in lighting, in the theatre, because I wanted to ge
 And certainly, for me, it underlies the vision I have for my life. Light is such a central part of it, because when light becomes internalized, it underpins the vision for our lives. The fact that I, some years ago, internalized my views on light, underpins my vision for life and it underpins my dreams.
 
 > Of the original phenomena, light is the most enthralling.
+>
 > <footer>Leonardo da Vinci
 
 Light helps us to understand buildings and the spaces we live in. It helps us not just to see our way around them, but to understand the nature of them, understand the form of them, understand the use of them, understand what they’re for and what they’re about.
@@ -473,9 +493,10 @@ Way back in the realms of history light was the guiding force for most civilisat
 The history of light is also the history of space, again one of Speirs and Major’s themes comes back to us. Space can be whatever we want to put in it, it is empty and waiting.
 
 > We shape the clay into a pot, but it is the emptiness inside that holds whatever we want.
+>
 > <footer>Lao-tzu
 
- Endow space with divinity and light is godlike, discover its shape and light is geometrical, fill it with matter and light is substantial. The early Christians the first light of creation to be a noble, spiritual reality they termed lux. It was the soul of space. They distinguished it from its physical counterpart, termed lumen. It may seem difficult and remote to us, but it was a central part of their world view.
+Endow space with divinity and light is godlike, discover its shape and light is geometrical, fill it with matter and light is substantial. The early Christians the first light of creation to be a noble, spiritual reality they termed lux. It was the soul of space. They distinguished it from its physical counterpart, termed lumen. It may seem difficult and remote to us, but it was a central part of their world view.
 
 Lux was god-given, essential light, the being of light.
 
@@ -491,6 +512,7 @@ Our understandings of light are intertwined with our conceptions of space: moral
 So we are left with my central thesis: our passion and our abilities as lighting designers are directly influenced by the extent to which we connect them to our inner light, the extent to which we connect the lumen to the lux!
 
 > If the light rises in the Sky of the heart ... and, in the utterly pure inner man attains the brightness of the sun ... then his heart is nothing but light ... his exterior, his interior, are nothing but light
+>
 > <footer>Najm Razi
 
 This is my belief and my experience. Spirituality has always been central to my life but it used to be separate from my practice as a designer. I worked at lighting and when not doing that I explored my approach to spirituality through reading, meditation and connections with others.
@@ -504,7 +526,6 @@ This merging never got in the way of my professional involvement, in fact it onl
 This was followed by other cathedral and church projects, all flowing from the original one. My involvement in this work grew and as it grew my maturity as a designer grew. As my maturity grew, my standing in the profession grew. I cannot pinpoint one time that this grew from other than the one I explained above.
 
 Finally I found as this confidence grew my view of myself changed and my whole life changed. I, increasingly, worked on my own personal development and through this my own personal spirituality grew. It informed my work and it informed my involvement in the profession at large and the IALD in particular.
-
 
 There was a point at which I ceased to distinguish between my professional and my personal life. I finally let my lux and my lumen merge and laid my whole life out for people to see and, possibly, learn from.
 
@@ -529,4 +550,5 @@ My aim was to inspire you. To inspire you to better work as designers. To inspir
 Look to your Inner Light and see what is there.
 
 > Come forth into the light of things. Let nature be your teacher.
+>
 > <footer>William Wordsworth
