@@ -1,6 +1,6 @@
 export default function (config) {
-  config.addShortcode("image", function (imageName, caption) {
-    return `<div class="inspiration">
+  config.addShortcode("image", function (position, imageName, caption) {
+    return `<div class="inspiration inspiration__${position}">
               <div class="inspiration__image">
                 <picture>
                   <source 
@@ -23,7 +23,9 @@ export default function (config) {
                   />
                 </picture>
               </div>
-              <p class="inspiration__caption">Image: ${caption}</p>
+              <div class="inspiration__image-caption">
+                Image: ${caption}
+              </div>
             </div>`;
   });
 

@@ -34,7 +34,7 @@ I dedicate this presentation to the power of lighting design to elevate peopleâ€
 
 As lighting designers we do more than illuminate peopleâ€™s lives, we draw attention to the beauty there. We help people to look forward and see what is to come. We create environments that take people out of the negativity of their lives and give them hope. I fully believe that, as lighting designers, we provide a service which inspires people at large as well as ourselves.
 
-{% image "Inspiration-1", "911 Memorial in Light" %}
+{% image "right", "Inspiration-1", "911 Memorial in Light" %}
 
 The power of the Tribute in Light to 9/11, for me, is quite extraordinary both technically and conceptually. It celebrates the lives of those killed and creating it with something intangible, yet powerful.
 
