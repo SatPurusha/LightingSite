@@ -1,4 +1,5 @@
 export default function (config) {
+
   config.addShortcode("image", function (position, imageName, caption) {
     return `<div class="inspiration inspiration__${position}">
               <div class="inspiration__image">
@@ -34,6 +35,7 @@ export default function (config) {
   config.setServerOptions({
     watch: ["dist/css/style.css"],
   });
+  
 }
 
 export const config = {
