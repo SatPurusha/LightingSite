@@ -1,9 +1,5 @@
 export default function (config) {
 
-  config.addShortcode("clear", function () {
-    return `<div class="all-clear:></div>`;
-   });
-
   config.addShortcode("image", function (position, imageName, caption) {
     return `<div class="inspiration inspiration__${position}">
               <div class="inspiration__image">

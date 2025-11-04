@@ -52,13 +52,11 @@ It is important that designers believe in what they are doing and display that a
 >
 > <footer>Elisabeth Kübler-Ross
 
-We all sparkle and shine, some of us more than others, but what is revealed when the darkness sets in. 
-
 {% image "right", "Inspiration-2", "Darkness Holding the Light" %}
 
-What happens when things get tough. When a project gets difficult, business gets tough or our personal lives intrude. How do we react to our work? Does it continue to be our passion? Do we keep striving to communicate? If our connection with our light comes from within we will continue to shine and grow.
+We all sparkle and shine, some of us more than others, but what is revealed when the darkness sets in. 
 
-{% clear %}
+What happens when things get tough. When a project gets difficult, business gets tough or our personal lives intrude. How do we react to our work? Does it continue to be our passion? Do we keep striving to communicate? If our connection with our light comes from within we will continue to shine and grow.
 
 ## Forms of Light
 
