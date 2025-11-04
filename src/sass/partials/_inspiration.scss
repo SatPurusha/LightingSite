@@ -3,6 +3,8 @@
 .inspiration-image {
   aspect-ratio: 1.34;
   border: 0.5px solid config.$color-grey;
+  max-width: 50%;
+  float: right;
 }
 
 .caption {

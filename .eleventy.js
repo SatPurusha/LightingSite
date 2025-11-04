@@ -21,8 +21,8 @@ export default function (config) {
                   alt="${caption}"
                 />
               </picture>
-            </div>
-            <p class="caption">Image: ${caption}</p>`;
+              <p class="caption">Image: ${caption}</p>
+            </div>`;
   });
 
   config.addPassthroughCopy("src/images");
