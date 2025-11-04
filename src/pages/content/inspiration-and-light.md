@@ -52,9 +52,15 @@ It is important that designers believe in what they are doing and display that a
 >
 > <footer>Elisabeth Kübler-Ross
 
-We all sparkle and shine, some of us more than others, but what is revealed when the darkness sets in. What happens when things get tough. When a project gets difficult, business gets tough or our personal lives intrude. How do we react to our work? Does it continue to be our passion? Do we keep striving to communicate? If our connection with our light comes from within we will continue to shine and grow.
+We all sparkle and shine, some of us more than others, but what is revealed when the darkness sets in. 
+
+{% image "right", "Inspiration-2", "Darkness Holding the Light" %}
+
+What happens when things get tough. When a project gets difficult, business gets tough or our personal lives intrude. How do we react to our work? Does it continue to be our passion? Do we keep striving to communicate? If our connection with our light comes from within we will continue to shine and grow.
 
 ## Forms of Light
+
+{% image "right", "Inspiration-3", "Light Forms" %}
 
 Light comes in many forms and has long been categorised by those seeking to understand it. This is part of a process of trying to contain the world we live in, trying to bring it under our control. One of the things I love about light is how it refuses to be contained like this. It is shifted, changed, diverted, diffused, focused but it never succumbs to our complete control. It eventually breaks free and remains light. We are never able to fully understand it, intellectually or scientifically, but we keep trying.
 
@@ -67,6 +73,8 @@ There are some well-know, at least in this community, definitions or categorisat
 It is interesting that although the former are lighting designers all of them are architects. They see light as part of a grander presentation of our world, they see light as part of the creation of our environment. Important and exciting as their work is, I seek to see light as more central to our lives as more of the core essence of who we are.
 
 ## Made of Light
+
+{% image "right", "Inspiration-4", "Made of Light Book" %}
 
 Jonathan Spiers and Mark Major, along with their amazing team of designers, created [_Made of Light, The Art of Light and Architecture_](https://smlightarchitecture.com/projects/515/made-of-light). In it they categorised light into 12 themes, what they describe as _“common bonds between light and architecture”_. They deliberately focus on _“qualitative, ephemeral and abstract considerations”_ but emphasise that the world we see, particularly the architectural world is _"Made of Light"_. I don’t want to dwell on these themes but I do want to remind you what they are.
 
