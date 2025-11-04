@@ -23,8 +23,8 @@ export default function (config) {
                   />
                 </picture>
               </div>
-              <p class="inspiration__caption">Image: ${caption}</p>`;
-            </div>
+              <p class="inspiration__caption">Image: ${caption}</p>
+            </div>`;
   });
 
   config.addPassthroughCopy("src/images");
