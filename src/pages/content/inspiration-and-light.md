@@ -58,6 +58,8 @@ We all sparkle and shine, some of us more than others, but what is revealed when
 
 What happens when things get tough. When a project gets difficult, business gets tough or our personal lives intrude. How do we react to our work? Does it continue to be our passion? Do we keep striving to communicate? If our connection with our light comes from within we will continue to shine and grow.
 
+{% clear %}
+
 ## Forms of Light
 
 {% image "right", "Inspiration-3", "Light Forms" %}
