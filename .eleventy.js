@@ -1,51 +1,20 @@
-export default function (config) {
+import imageInspire from "./src/_includes/shortcodes/imageInspire.js";
 
-  config.addShortcode("image", function (position, imageName, caption) {
-    return `<div class="inspiration inspiration__${position}">
-              <div class="inspiration__image">
-                <picture>
-                  <source 
-                    type="image/jpeg"
-                    srcset="/images/${imageName}-1800.jpg"
-                    media="(min-width: 675px)"
-                  />
-                  <source 
-                    type="image/jpeg"
-                    srcset="/images/${imageName}-1350.jpg"
-                    media="(min-width: 450px)"
-                  />
-                  <source 
-                    type="image/jpeg"
-                    srcset="/images/${imageName}-900.jpg"
-                  />
-                  <img 
-                    src="/images/${imageName}.jpg" 
-                    alt="${caption}"
-                  />
-                </picture>
-              </div>
-              <div class="inspiration__image-caption">
-                Image: ${caption}
-              </div>
-            </div>`;
-  });
-
-  config.addPassthroughCopy("src/images");
-
-  config.setServerOptions({
-    watch: ["dist/css/style.css"],
-  });
-  
-}
+export default (eleventyConfig) => {
+  eleventyConfig.addShortcode("imageInspire", imageInspire);
+  eleventyConfig.addPassthroughCopy("src/images")
+    watch: ["dist/css/style.css"];
+};
 
 export const config = {
   markdownTemplateEngine: "njk",
-  dataTemplateEngine: "njk",
   htmlTemplateEngine: "njk",
   dir: {
     data: "_data",
     input: "src",
-    layouts: "_includes",
+    includes: "_includes",
+    layouts: "_includes/layouts",
+    shortcodes: "_includes/shortcodes",
     output: "dist",
     images: "images",
   },

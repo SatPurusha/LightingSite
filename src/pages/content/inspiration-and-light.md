@@ -34,7 +34,7 @@ I dedicate this presentation to the power of lighting design to elevate people�
 
 As lighting designers we do more than illuminate people’s lives, we draw attention to the beauty there. We help people to look forward and see what is to come. We create environments that take people out of the negativity of their lives and give them hope. I fully believe that, as lighting designers, we provide a service which inspires people at large as well as ourselves.
 
-{% image "right", "Inspiration-1", "911 Memorial in Light" %}
+{% imageInspire "right", "Inspiration-1", "911 Memorial in Light" %}
 
 The power of the Tribute in Light to 9/11, for me, is quite extraordinary both technically and conceptually. It celebrates the lives of those killed and creating it with something intangible, yet powerful.
 
@@ -52,7 +52,7 @@ It is important that designers believe in what they are doing and display that a
 >
 > <footer>Elisabeth Kübler-Ross
 
-{% image "right", "Inspiration-2", "Darkness Holding the Light" %}
+{% imageInspire "right", "Inspiration-2", "Darkness Holding the Light" %}
 
 We all sparkle and shine, some of us more than others, but what is revealed when the darkness sets in. 
 
@@ -60,7 +60,7 @@ What happens when things get tough. When a project gets difficult, business gets
 
 ## Forms of Light
 
-{% image "right", "Inspiration-3", "Light Forms" %}
+{% imageInspire "right", "Inspiration-3", "Light Forms" %}
 
 Light comes in many forms and has long been categorised by those seeking to understand it. This is part of a process of trying to contain the world we live in, trying to bring it under our control. One of the things I love about light is how it refuses to be contained like this. It is shifted, changed, diverted, diffused, focused but it never succumbs to our complete control. It eventually breaks free and remains light. We are never able to fully understand it, intellectually or scientifically, but we keep trying.
 
@@ -74,7 +74,7 @@ It is interesting that although the former are lighting designers all of them ar
 
 ## Made of Light
 
-{% image "right", "Inspiration-4", "Made of Light Book" %}
+{% imageInspire "right", "Inspiration-4", "Made of Light Book" %}
 
 Jonathan Spiers and Mark Major, along with their amazing team of designers, created [_Made of Light, The Art of Light and Architecture_](https://smlightarchitecture.com/projects/515/made-of-light). In it they categorised light into 12 themes, what they describe as _“common bonds between light and architecture”_. They deliberately focus on _“qualitative, ephemeral and abstract considerations”_ but emphasise that the world we see, particularly the architectural world is _"Made of Light"_. I don’t want to dwell on these themes but I do want to remind you what they are.
 
