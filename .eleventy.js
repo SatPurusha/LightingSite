@@ -14,6 +14,7 @@ export const config = {
     data: "_data",
     includes: "_includes",
     shortcodes: "_includes/shortcodes",
+    layouts: "_includes/layouts",
     output: "dist",
     images: "images",
   },
