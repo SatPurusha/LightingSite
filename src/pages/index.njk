@@ -9,3 +9,20 @@ image:
   name: /images/light-banner
 layout: base.njk
 ---
+
+<div class="frontColumns">
+    {% for item in collections.pages | reverse %} 
+        <article class="list-card">
+            <div class="list-card__header">
+                <a class="list-card__link" href="{{ item.data.permalink }}">
+                    <h2 class="list-card__text">{{ item.data.title }}</h2>
+                </a>
+            </div>
+            {% if item.data.image.name %}
+                <a href="{{ item.data.permalink }}">
+                    <img class="aspect" src="{{ item.data.image.name }}.jpg" alt="{{ item.data.image.alt }}"/>
+                </a>
+            {% endif %} 
+        </article>
+    {% endfor %}
+</div>

@@ -16,4 +16,13 @@ Light helps people to understand buildings and the spaces they live in. It helps
 
 From within, not from behind, a light shines through us onto things. It makes us aware that we are nothing, but the light is all. We are casting the shadow obscuring what we are looking at, or creating the light that illuminates the world around us. Light opens up everything, and we fool ourselves if we think the world is revealed just by our own efforts. It is also revealed by something greater inside us.
 
-{% include "layouts/partials/bookList.njk" %}
+{% for image in lightingBook %}  
+  <h2 id="{{ image.title }}">{{ image.title }}</h2>
+  <p>{{ image.text }}</p>
+  <ul>
+    <li class="projects">{{ image.projects }}</li>
+  </ul>
+  <div class="book-image">
+    <img class = "aspect" src="{{ image.link }}.jpg" alt="{{ image.alt }}"/>
+  </div>
+{% endfor %}

@@ -4,19 +4,35 @@
     {% include "./partials/head.njk" %}
   </head>
   <body>
-    <section>
-      <header>
-          {% include "./partials/mainHeader.njk" %}
-      </header>
-      <main>
-        {% include "./partials/mainContent.njk" %}
-      </main>
-      <nav>
-        {% include "./partials/cardList.njk" %}
-      </nav>
-      <footer>
-        {% include "./partials/footer.njk" %}
-      </footer>
-    </section>
+    <header class="main-header">
+      <div class="main-header__inside">
+        <a class="main-header__name" href="{{ siteData.site.url }}/">
+          {{ siteData.site.name }}
+        </a>
+      </div>
+    </header>
+    <main id="main" class="flow">
+      <section class="flow">
+        {% if image.name %}
+          <a href="{{ link }}">
+            <img class="aspect" src="{{ image.name }}.jpg" alt="{{ image.alt }}"/>               
+          </a>
+        {% endif %}
+        {% if title %}
+          <h1>{{ title }}</h1>
+          <h2 style="margin-top:0!important;">{{ subtitle }}</h2>
+          <p class="excerpt">{{ excerpt }}</p>
+          <p class="first-para">{{ firstPara }}</p> 
+        {% endif %}
+      </section>
+      {{ content | safe}}
+    </main>
+    <footer>
+      <aside class="flex top">
+        <div class="flex__item">
+            ©2025
+        </div>
+      </aside>
+    </footer>
   </body>
 </html>

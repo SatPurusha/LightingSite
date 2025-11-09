@@ -5,7 +5,10 @@ export default (eleventyConfig) => {
   eleventyConfig.addPlugin(eleventyImageTransformPlugin);
   eleventyConfig.addShortcode("scii", iText);
   eleventyConfig.addPassthroughCopy("src/images");
-  watch: ["dist/css/style.css"];
+  eleventyConfig.setServerOptions({
+    liveReload: true,
+    watch: ["dist/css/style.css"],
+  })
 };
 
 export const config = {
