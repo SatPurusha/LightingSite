@@ -25,13 +25,3 @@ aside {
     font-size: config.$size-2;
   }
 }
-
-.aside-hide-toc {
-  float: right;
-  text-decoration: underline;
-
-  &:hover {
-    color: config.$color-red;
-    text-decoration: none;
-  }
-}

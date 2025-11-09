@@ -41,25 +41,3 @@ blockquote {
     }
   }
 }
-
-q {
-  font-style: italic;
-}
-
-.pull-quote {
-  font-family: config.$font-head;
-  font-size: config.$size-2;
-  line-height: config.$line-4;
-  font-style: italic;
-  color: config.$color-blue;
-  padding-left: 1rem;
-  padding-right: 0.5rem;
-  margin-left: 1.25rem;
-  margin-bottom: 0.5rem;
-  border-left: 3px solid config.$color-blue;
-
-  @media (min-width: 700px) {
-    width: 50%;
-    float: right;
-  }
-}

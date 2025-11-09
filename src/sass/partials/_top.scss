@@ -1,23 +1,4 @@
 @use 'config';
-
-.category-title {
-    font-family: config.$font-head;
-    font-size: config.$size-1;
-    line-height: config.$line-2;
-    color: var(--color-text);
-    margin-top: 1rem;
-    margin-left: 0.75rem;
-  
-    &:hover {
-      color: config.$color-blue;
-    }
-  
-    @media (min-width: 700px) {
-      font-size: config.$size-2;
-      line-height: config.$line-3;
-      margin-top: 1.5rem;
-    }
-  }
   
   .excerpt {
     font-style: italic;

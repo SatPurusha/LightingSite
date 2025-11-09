@@ -1,7 +1,19 @@
 <!DOCTYPE html>
 <html lang="en" data-theme='dark'>
   <head>
-    {% include "./partials/head.njk" %}
+    <!-- base meta -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta       http-equiv="X-UA-Compatible" content="ie=edge" />
+    <!-- title & description -->
+    <title>{{ title }} | {{ siteData.site.name }}</title>
+    <meta name="description" content="{{ siteData.site.description }}"/>
+    <!-- site links -->
+    <link rel="canonical" href="{{ siteData.site.url }}{{ page.url }}"/>
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <!-- stylesheets -->
+    <link rel="stylesheet" href="{{ '/css/style.css' | url }}"/>
   </head>
   <body>
     <header class="main-header">
