@@ -5,20 +5,20 @@
 
   &__right {
     float: right;
-    margin: 1.5rem 0 0.5rem 1rem;
+    margin: 0.75rem 0 0.5rem 1rem;
   }
 
   &__left {
     float: left;
-    margin: 1.5rem 1rem 0.5rem 0;
+    margin: 0.75rem 1rem 0.5rem 0;
   }
 
   &__image {
-    aspect-ratio: 1.34;
     border: 0.5px solid config.$color-grey;
   }
 
   &__image-caption {
     font-size: config.$size-1;
+    font-style: italic;
   }
 }

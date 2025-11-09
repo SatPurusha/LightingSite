@@ -9,28 +9,7 @@
             </div>
             {% if item.data.image.name %}
                 <a href="{{ item.data.permalink }}">
-                    <div class="aspect">
-                        <picture>
-                            <source 
-                                type="image/jpeg"
-                                srcset="{{ item.data.image.name }}-1800.jpg"
-                                media="(min-width: 675px)"
-                            />
-                            <source 
-                                type="image/jpeg"
-                                srcset="{{ item.data.image.name }}-1350.jpg"
-                                media="(min-width: 450px)"
-                            />
-                            <source 
-                                type="image/jpeg"
-                                srcset="{{ item.data.image.name }}-900.jpg"
-                            />
-                            <img 
-                                src="{{ item.data.image.name }}" 
-                                alt="{{ item.data.image.alt }}"
-                            />
-                        </picture>
-                    </div>
+                    <img class="aspect" src="{{ item.data.image.name }}.jpg" alt="{{ item.data.image.alt }}"/>
                 </a>
             {% endif %} 
         </article>

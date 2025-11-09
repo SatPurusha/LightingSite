@@ -1,6 +1,8 @@
 import iText from "./src/_includes/shortcodes/imageInspire.js";
+import {eleventyImageTransformPlugin} from "@11ty/eleventy-img";
 
 export default (eleventyConfig) => {
+  eleventyConfig.addPlugin(eleventyImageTransformPlugin);
   eleventyConfig.addShortcode("scii", iText);
   eleventyConfig.addPassthroughCopy("src/images");
   watch: ["dist/css/style.css"];
@@ -13,6 +15,7 @@ export const config = {
     input: "src",
     data: "_data",
     includes: "_includes",
+    layouts: "_includes/layouts",
     shortcodes: "_includes/shortcodes",
     output: "dist",
     images: "images",
