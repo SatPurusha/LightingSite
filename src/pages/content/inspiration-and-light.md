@@ -78,9 +78,9 @@ It is interesting that although the former are lighting designers all of them ar
 
 Jonathan Spiers and Mark Major, along with their amazing team of designers, created [_Made of Light, The Art of Light and Architecture_](https://smlightarchitecture.com/projects/515/made-of-light). In it they categorised light into 12 themes, what they describe as _“common bonds between light and architecture”_. They deliberately focus on _“qualitative, ephemeral and abstract considerations”_ but emphasise that the world we see, particularly the architectural world is _"Made of Light"_. I don’t want to dwell on these themes but I do want to remind you what they are.
 
-### Source
-
 {% sciism "right", "Inspiration-5", "Source" %}
+
+###  Source
 
 > We now live in an age where artificial sources offer as many possibilities for expression and the creation of architecture as the light of the sun itself.
 
