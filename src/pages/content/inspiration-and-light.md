@@ -80,7 +80,7 @@ Jonathan Spiers and Mark Major, along with their amazing team of designers, crea
 
 ### Source
 
-<inspiration-source.jpg>
+{% scii "right", "Inspiration-5", "Source" %}
 
 > We now live in an age where artificial sources offer as many possibilities for expression and the creation of architecture as the light of the sun itself.
 
