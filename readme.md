@@ -2,6 +2,8 @@
 
 This is a simple site built using Eleventy, a great ssg.
 
+Test from iPad.
+
 # Eleventy Resources
 
 1. https://www.raresportan.com/eleventy-part-three/
